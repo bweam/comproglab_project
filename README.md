@@ -11,3 +11,5 @@
 !pip install flask_ngrok
 
 !pip install pymongo[srv]
+
+!pip install dnspython
