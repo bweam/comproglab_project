@@ -163,8 +163,6 @@ app.run()
 
 ## DATA ANALYSIS
 
-!pip install dnspython
-
   import pymongo
   from pymongo import MongoClient
 
